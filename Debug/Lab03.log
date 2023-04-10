@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Semester 4\Labs\Lab03\Source.cpp(1,1): error C2007: #define syntax
+E:\Semester 4\Labs\Lab03\Source.cpp(83,16): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Semester 4\Labs\Lab03\Source.cpp(99,17): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
